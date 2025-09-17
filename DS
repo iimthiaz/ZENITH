@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Forms Access</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin-top: 100px;
+    }
+    a.button {
+      display: inline-block;
+      margin: 20px;
+      padding: 15px 25px;
+      font-size: 18px;
+      text-decoration: none;
+      color: white;
+      background-color: #007BFF;
+      border-radius: 8px;
+    }
+    a.button:hover {
+      background-color: #0056b3;
+    }
+  </style>
+</head>
+<body>
+  <h1>Access Your Forms</h1>
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSddhDnmu842gNAWdhr1PAOs3LY4o3n3_oDbW2cTzRXHe7iAsw/viewform?usp=dialog" target="_blank" class="button">KS1</a>
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSf9bm0TlHXpAFdbSr7Htci2cKhs9tC1hoNTkh6WNA485ch57Q/viewform?usp=dialog" target="_blank" class="button">KS2</a>
+</body>
+</html>
